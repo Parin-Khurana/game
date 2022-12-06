@@ -578,6 +578,7 @@ function circle2() {
     }
 }
 function circle3() {
+    addPrompt()
     cross = document.getElementById("cross3");
     circle = document.getElementById("circle3");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -600,6 +601,7 @@ function circle3() {
     }
 }
 function circle4() {
+    addPrompt()
     cross = document.getElementById("cross4");
     circle = document.getElementById("circle4");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -622,6 +624,7 @@ function circle4() {
     }
 }
 function circle5() {
+    addPrompt()
     cross = document.getElementById("cross5");
     circle = document.getElementById("circle5");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -644,7 +647,7 @@ function circle5() {
     }
 }
 function circle6() {
-    addPrompt()
+ addPrompt()
     cross = document.getElementById("cross6");
     circle = document.getElementById("circle6");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -667,6 +670,7 @@ function circle6() {
     }
 }
 function circle7() {
+    addPrompt()
     cross = document.getElementById("cross7");
     circle = document.getElementById("circle7");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -689,6 +693,7 @@ function circle7() {
     }
 }
 function circle8() {
+    addPrompt()
     cross = document.getElementById("cross8");
     circle = document.getElementById("circle8");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -711,6 +716,7 @@ function circle8() {
     }
 }
 function circle9() {
+    addPrompt()
     cross = document.getElementById("cross9");
     circle = document.getElementById("circle9");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -774,6 +780,7 @@ function circle10() {
     
 }
 function circle11() {
+    addSubPrompt()
     cross = document.getElementById("cross11");
     circle = document.getElementById("circle11");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -796,6 +803,7 @@ function circle11() {
     }
 }
 function circle12() {
+    addSubPrompt()
     cross = document.getElementById("cross12");
     circle = document.getElementById("circle12");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -818,6 +826,7 @@ function circle12() {
     }
 }
 function circle13() {
+    addSubPrompt()
     cross = document.getElementById("cross13");
     circle = document.getElementById("circle13");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -840,6 +849,7 @@ function circle13() {
     }
 }
 function circle14() {
+    addSubPrompt()
     cross = document.getElementById("cross14");
     circle = document.getElementById("circle14");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -862,6 +872,7 @@ function circle14() {
     }
 }
 function circle15() {
+    addSubPrompt()
     cross = document.getElementById("cross15");
     circle = document.getElementById("circle15");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -884,6 +895,7 @@ function circle15() {
     }
 }
 function circle16() {
+    addSubPrompt()
     cross = document.getElementById("cross16");
     circle = document.getElementById("circle16");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -906,6 +918,7 @@ function circle16() {
     }
 }
 function circle17() {
+    addSubPrompt()
     cross = document.getElementById("cross17");
     circle = document.getElementById("circle17");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -928,6 +941,7 @@ function circle17() {
     }
 }
 function circle18() {
+    addSubPrompt()
     cross = document.getElementById("cross18");
     circle = document.getElementById("circle18");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -991,6 +1005,7 @@ function circle19() {
     }
 }
 function circle20() {
+    subPrompt()
     cross = document.getElementById("cross20");
     circle = document.getElementById("circle20");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1013,6 +1028,7 @@ function circle20() {
     }
 }
 function circle21() {
+     subPrompt()
     cross = document.getElementById("cross21");
     circle = document.getElementById("circle21");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1035,6 +1051,7 @@ function circle21() {
     }
 }
 function circle22() {
+     subPrompt()
     cross = document.getElementById("cross22");
     circle = document.getElementById("circle22");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1057,6 +1074,7 @@ function circle22() {
     }
 }
 function circle23() {
+     subPrompt()
     cross = document.getElementById("cross23");
     circle = document.getElementById("circle23");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1079,6 +1097,7 @@ function circle23() {
     }
 }
 function circle24() {
+     subPrompt()
     cross = document.getElementById("cross24");
     circle = document.getElementById("circle24");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1101,6 +1120,7 @@ function circle24() {
     }
 }
 function circle25() {
+     subPrompt()
     cross = document.getElementById("cross25");
     circle = document.getElementById("circle25");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1123,6 +1143,7 @@ function circle25() {
     }
 }
 function circle26() {
+     subPrompt()
     cross = document.getElementById("cross26");
     circle = document.getElementById("circle26");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1145,6 +1166,7 @@ function circle26() {
     }
 }
 function circle27() {
+     subPrompt()
     cross = document.getElementById("cross27");
     circle = document.getElementById("circle27");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1208,6 +1230,7 @@ function circle28() {
     
 }
 function circle29() {
+    addMulPrompt()
     cross = document.getElementById("cross29");
     circle = document.getElementById("circle29");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1230,6 +1253,7 @@ function circle29() {
     }
 }
 function circle30() {
+    addMulPrompt()
     cross = document.getElementById("cross30");
     circle = document.getElementById("circle30");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1252,6 +1276,7 @@ function circle30() {
     }
 }
 function circle31() {
+    addMulPrompt()
     cross = document.getElementById("cross31");
     circle = document.getElementById("circle31");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1274,6 +1299,7 @@ function circle31() {
     }
 }
 function circle32() {
+    addMulPrompt()
     cross = document.getElementById("cross32");
     circle = document.getElementById("circle32");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1296,6 +1322,7 @@ function circle32() {
     }
 }
 function circle33() {
+    addMulPrompt()
     cross = document.getElementById("cross33");
     circle = document.getElementById("circle33");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1318,6 +1345,7 @@ function circle33() {
     }
 }
 function circle34() {
+    addMulPrompt()
     cross = document.getElementById("cross34");
     circle = document.getElementById("circle34");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1340,6 +1368,7 @@ function circle34() {
     }
 }
 function circle35() {
+    addMulPrompt()
     cross = document.getElementById("cross35");
     circle = document.getElementById("circle35");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1362,6 +1391,7 @@ function circle35() {
     }
 }
 function circle36() {
+    addMulPrompt()
     cross = document.getElementById("cross36");
     circle = document.getElementById("circle36");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1471,6 +1501,7 @@ function circle39() {
     }
 }
 function circle40() {
+    allOpPrompt()
     cross = document.getElementById("cross40");
     circle = document.getElementById("circle40");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1493,6 +1524,7 @@ function circle40() {
     }
 }
 function circle41() {
+    allOpPrompt()
     cross = document.getElementById("cross41");
     circle = document.getElementById("circle41");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1515,6 +1547,7 @@ function circle41() {
     }
 }
 function circle42() {
+    allOpPrompt()
     cross = document.getElementById("cross42");
     circle = document.getElementById("circle42");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1537,6 +1570,7 @@ function circle42() {
     }
 }
 function circle43() {
+    allOpPrompt()
     cross = document.getElementById("cross43");
     circle = document.getElementById("circle43");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1559,6 +1593,7 @@ function circle43() {
     }
 }
 function circle44() {
+    allOpPrompt()
     cross = document.getElementById("cross44");
     circle = document.getElementById("circle44");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1581,6 +1616,7 @@ function circle44() {
     }
 }
 function circle45() {
+    allOpPrompt()
     cross = document.getElementById("cross45");
     circle = document.getElementById("circle45");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1644,6 +1680,7 @@ function circle46() {
     
 }
 function circle47() {
+    divSubPrompt()
     cross = document.getElementById("cross47");
     circle = document.getElementById("circle47");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1666,6 +1703,7 @@ function circle47() {
     }
 }
 function circle48() {
+    divSubPrompt()
     cross = document.getElementById("cross48");
     circle = document.getElementById("circle48");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1688,6 +1726,7 @@ function circle48() {
     }
 }
 function circle49() {
+    divSubPrompt()
     cross = document.getElementById("cross49");
     circle = document.getElementById("circle49");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1710,6 +1749,7 @@ function circle49() {
     }
 }
 function circle50() {
+    divSubPrompt()
     cross = document.getElementById("cross50");
     circle = document.getElementById("circle50");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1732,6 +1772,7 @@ function circle50() {
     }
 }
 function circle51() {
+    divSubPrompt()
     cross = document.getElementById("cross51");
     circle = document.getElementById("circle51");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1754,6 +1795,7 @@ function circle51() {
     }
 }
 function circle52() {
+    divSubPrompt()
     cross = document.getElementById("cross52");
     circle = document.getElementById("circle52");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1776,6 +1818,7 @@ function circle52() {
     }
 }
 function circle53() {
+    divSubPrompt()
     cross = document.getElementById("cross53");
     circle = document.getElementById("circle53");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1798,6 +1841,7 @@ function circle53() {
     }
 }
 function circle54() {
+    divSubPrompt()
     cross = document.getElementById("cross54");
     circle = document.getElementById("circle54");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1860,7 +1904,8 @@ function circle55() {
     }
     
 }
-function circle56() {
+function circle56() {mulPrompt()
+    
     cross = document.getElementById("cross56");
     circle = document.getElementById("circle56");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1883,6 +1928,7 @@ function circle56() {
     }
 }
 function circle57() {
+    mulPrompt()
     cross = document.getElementById("cross57");
     circle = document.getElementById("circle57");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1905,6 +1951,7 @@ function circle57() {
     }
 }
 function circle58() {
+    mulPrompt()
     cross = document.getElementById("cross58");
     circle = document.getElementById("circle58");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1927,6 +1974,7 @@ function circle58() {
     }
 }
 function circle59() {
+    mulPrompt()
     cross = document.getElementById("cross59");
     circle = document.getElementById("circle59");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1949,6 +1997,7 @@ function circle59() {
     }
 }
 function circle60() {
+    mulPrompt()
     cross = document.getElementById("cross60");
     circle = document.getElementById("circle60");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1971,6 +2020,7 @@ function circle60() {
     }
 }
 function circle61() {
+    mulPrompt()
     cross = document.getElementById("cross61");
     circle = document.getElementById("circle61");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -1993,6 +2043,7 @@ function circle61() {
     }
 }
 function circle62() {
+    mulPrompt()
     cross = document.getElementById("cross62");
     circle = document.getElementById("circle62");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2015,6 +2066,7 @@ function circle62() {
     }
 }
 function circle63() {
+    mulPrompt()
     cross = document.getElementById("cross63");
     circle = document.getElementById("circle63");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2078,6 +2130,7 @@ function circle64() {
     
 }
 function circle65() {
+    divMulPrompt()
     cross = document.getElementById("cross65");
     circle = document.getElementById("circle65");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2100,6 +2153,7 @@ function circle65() {
     }
 }
 function circle66() {
+    divMulPrompt()
     cross = document.getElementById("cross66");
     circle = document.getElementById("circle66");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2122,6 +2176,7 @@ function circle66() {
     }
 }
 function circle67() {
+    divMulPrompt()
     cross = document.getElementById("cross67");
     circle = document.getElementById("circle67");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2144,6 +2199,7 @@ function circle67() {
     }
 }
 function circle68() {
+    divMulPrompt()
     cross = document.getElementById("cross68");
     circle = document.getElementById("circle68");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2166,6 +2222,7 @@ function circle68() {
     }
 }
 function circle69() {
+    divMulPrompt()
     cross = document.getElementById("cross69");
     circle = document.getElementById("circle69");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2188,6 +2245,7 @@ function circle69() {
     }
 }
 function circle70() {
+    divMulPrompt()
     cross = document.getElementById("cross70");
     circle = document.getElementById("circle70");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2210,6 +2268,7 @@ function circle70() {
     }
 }
 function circle71() {
+    divMulPrompt()
     cross = document.getElementById("cross71");
     circle = document.getElementById("circle71");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2232,6 +2291,7 @@ function circle71() {
     }
 }
 function circle72() {
+    divMulPrompt()
     cross = document.getElementById("cross72");
     circle = document.getElementById("circle72");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2293,6 +2353,7 @@ function circle73() {
     
 }
 function circle74() {
+     divPrompt()
     cross = document.getElementById("cross74");
     circle = document.getElementById("circle74");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2315,6 +2376,7 @@ function circle74() {
     }
 }
 function circle75() {
+     divPrompt()
     cross = document.getElementById("cross75");
     circle = document.getElementById("circle75");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2337,6 +2399,7 @@ function circle75() {
     }
 }
 function circle76() {
+     divPrompt()
     cross = document.getElementById("cross76");
     circle = document.getElementById("circle76");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2359,6 +2422,7 @@ function circle76() {
     }
 }
 function circle77() {
+     divPrompt()
     cross = document.getElementById("cross77");
     circle = document.getElementById("circle77");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2381,6 +2445,7 @@ function circle77() {
     }
 }
 function circle78() {
+     divPrompt()
     cross = document.getElementById("cross78");
     circle = document.getElementById("circle78");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2403,6 +2468,7 @@ function circle78() {
     }
 }
 function circle79() {
+     divPrompt()
     cross = document.getElementById("cross79");
     circle = document.getElementById("circle79");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2425,6 +2491,7 @@ function circle79() {
     }
 }
 function circle80() {
+     divPrompt()
     cross = document.getElementById("cross80");
     circle = document.getElementById("circle80");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
@@ -2447,6 +2514,7 @@ function circle80() {
     }
 }
 function circle81() {
+     divPrompt()
     cross = document.getElementById("cross81");
     circle = document.getElementById("circle81");
     if (x % 2 == 0 && !circle.classList.contains("clicked")) {
